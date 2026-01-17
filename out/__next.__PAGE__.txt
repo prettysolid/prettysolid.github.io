@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"YKB7HgoF_eCrduKaPEl1N","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"backgroundColor":"#000","minHeight":"100vh","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center","padding":"2rem"},"children":[["$","div",null,{"style":{"width":80,"height":80,"backgroundColor":"#fff","marginBottom":"2rem"}}],["$","p",null,{"style":{"color":"#fff","fontSize":"1.25rem","textAlign":"center","maxWidth":400,"lineHeight":1.5},"children":"We build small, focused software products. Pretty solid ones, actually."}],["$","p",null,{"style":{"color":"#fff","fontSize":"0.875rem","marginTop":"1.5rem","opacity":0.7},"children":"hi@prettysolid.ai"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
