@@ -1,1 +1,3 @@
-# prettysolid.github.io
+# Pretty Solid
+
+Website for [prettysolid.ai](https://prettysolid.ai)
